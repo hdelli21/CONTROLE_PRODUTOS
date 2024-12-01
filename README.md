@@ -1,4 +1,4 @@
-#ABSTRATA_PRODUTO
+# CONTROLE_PRODUTOS
 
 Este projeto implementa uma hierarquia de classes para produtos, com a classe base Produto e suas subclasses especializadas:
 
